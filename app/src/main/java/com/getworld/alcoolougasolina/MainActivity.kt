@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
         val  resultadoPreco = valorAlcool / valorGasolina
 
         if (resultadoPreco >= 0.7 ){
-            textResultado.text = "Melhor utilizar Gasolina."
+            textResultado.text = "Melhor utilizar Gasolina..."
         }else{
 
             textResultado.text = "Melhor utilizar Alcool."
