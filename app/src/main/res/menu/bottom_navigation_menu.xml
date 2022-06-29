@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home"/>
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/menu_compartilhamento"/>
+
+    <item
+        android:id="@+id/email"
+        android:icon="@drawable/ic_email"
+        android:title="@string/menu_email"/>
+
+    <item
+        android:id="@+id/avalie"
+        android:icon="@drawable/ic_avalie"
+        android:title="@string/menu_avalia"/>
+
+    <item
+        android:id="@+id/apps"
+        android:icon="@drawable/ic_apps"
+        android:title="@string/menu_apps"/>
+
+
+</menu>
